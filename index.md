@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to MOVIES AUTO FILTER BOT Pages
 
-You can use the [editor on GitHub](https://github.com/zmraj/MOVIES-AUTO-FILTER-BOT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ # -MOVIES AUTO FILTER BOT
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<b>[Name: 𝗠𝗼𝘃𝗶𝗲𝘀 𝗔𝘂𝘁𝗼 𝗙𝗶𝗹𝘁𝗲𝗿𝘀 𝗕𝗼𝘁](https://t.me/joinchat/F61KlHVrbP4wZGVl)</b>
 
-### Markdown
+<b>[Description: 🙋, 𝗜'𝗺 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 𝗔𝘂𝘁𝗼-𝗙𝗶𝗹𝘁𝗲𝗿 𝗕𝗼𝘁 𝗬𝗼𝘂 𝗖𝗮𝗻 𝗨𝘀𝗲 𝗠𝗲 𝗔𝘀 𝗔 𝗔𝘂𝘁𝗼-𝗳𝗶𝗹𝘁𝗲𝗿 𝗕𝗼𝘁 𝗜𝗻 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 ..](https://t.me/joinchat/F61KlHVrbP4wZGVl)</b>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<b>[𝗜𝘁𝘀 𝗘𝗮𝘀𝘆 𝗧𝗼 𝗨𝘀𝗲 𝗠𝗲; 𝗝𝘂𝘀𝘁 𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 𝗔𝘀 𝗔𝗱𝗺𝗶𝗻, 𝗧𝗵𝗮𝘁𝘀 𝗔𝗹𝗹, 𝗶 𝘄𝗶𝗹𝗹 𝗣𝗿𝗼𝘃𝗶𝗱𝗲 𝗠𝗼𝘃𝗶𝗲𝘀 𝗧𝗵𝗲𝗿𝗲...🤓](https://t.me/joinchat/F61KlHVrbP4wZGVl)</b>
 
-```markdown
-Syntax highlighted code block
+<b>[❗️𝗝𝗢𝗜𝗡 ❗️ 𝗠𝗢𝗩𝗜𝗘𝗦 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 ❗️](https://t.me/joinchat/F61KlHVrbP4wZGVl)</b>
+ 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+ 
+<b>[⚠️𝗠𝗼𝗿𝗲 𝗛𝗲𝗹𝗽 𝗖𝗵𝗲𝗰𝗸 𝗦𝗧𝗔𝗥𝗧 𝗕𝘂𝘁𝘁𝗼𝗻 𝗕𝗲𝗹𝗼𝘄](https://t.me/joinchat/F61KlHVrbP4wZGVl)</b>
+👇👇👇👇👇👇👇
+<b>[About: 🙋, 𝗜'𝗺 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 𝗔𝘂𝘁𝗼-𝗙𝗶𝗹𝘁𝗲𝗿 𝗕𝗼𝘁 𝗬𝗼𝘂 𝗖𝗮𝗻 𝗨𝘀𝗲 𝗠𝗲 𝗔𝘀 𝗔 𝗔𝘂𝘁𝗼-𝗳𝗶𝗹𝘁𝗲𝗿 𝗕𝗼𝘁 𝗜𝗻 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 ..🙋,](https://t.me/joinchat/F61KlHVrbP4wZGVl)</b>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zmraj/MOVIES-AUTO-FILTER-BOT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
