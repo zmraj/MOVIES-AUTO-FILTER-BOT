@@ -8,6 +8,7 @@
 
 <b>[❗️𝗝𝗢𝗜𝗡 ❗️ 𝗠𝗢𝗩𝗜𝗘𝗦 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 ❗️](https://t.me/joinchat/F61KlHVrbP4wZGVl)</b>
  
+![image](https://user-images.githubusercontent.com/75981442/142905851-18483087-654d-4be5-a669-329220d1187d.png)
 
 
  
